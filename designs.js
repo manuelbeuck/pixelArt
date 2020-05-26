@@ -1,5 +1,6 @@
 
 // create grid after clicking submit button with respect to the grid height and with inputs
+// the user is able to draw something with the elements (pixels) he selects in the grid
 function makeGrid() {
     const pixelCanvas = document.querySelector('#pixelCanvas');
 
@@ -20,9 +21,10 @@ function makeGrid() {
         let tr = document.createElement('tr');
         for (let column = 0; column < columnElements; column++) {
 
-            // create gird element
+            // create gird element (pixel)
             let td = document.createElement('td');
             td.bgColor = 'white';
+            //select color of pixel
             td.addEventListener('click', function () {
                 td.bgColor = document.querySelector('#colorPicker').value
             });
