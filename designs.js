@@ -23,7 +23,7 @@ function makeGrid() {
             // create gird element
             let td = document.createElement('td');
             td.bgColor = 'white';
-            td.addEventListener('click', function (event) {
+            td.addEventListener('click', function () {
                 td.bgColor = document.querySelector('#colorPicker').value
             });
             tr.appendChild(td);
