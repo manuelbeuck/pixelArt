@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87d70ee1-583d-4ed0-aa73-425ecee894a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cMqVQT0NcVb2PW3Rnkej5scn7B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/animal-trading-cards-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/animal-trading-cards-master" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/animal-trading-cards-master" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87d70ee1-583d-4ed0-aa73-425ecee894a9" name="Default Changelist" comment="" />
+      <created>1590348833038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590348833038</updated>
+      <workItem from="1590348834203" duration="4358000" />
+      <workItem from="1590364173726" duration="813000" />
+      <workItem from="1590446422090" duration="5397000" />
+      <workItem from="1590485063185" duration="8571000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1720" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590503054754">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="100" y="123" width="1720" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.23.1920.1057/-1920.23.1920.1057/-3600.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1590503054754" />
+    <state x="391" y="251" width="1425" height="1037" key="dock-window-1" timestamp="1590352218217">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="391" y="251" width="1425" height="1037" key="dock-window-1/1920.23.1920.1057/-1920.23.1920.1057/-3600.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1590352218217" />
+  </component>
+</project>
